@@ -1,0 +1,5 @@
+[toolchain]
+channel = "nightly-2022-06-24"
+components = [ "rustfmt", "clippy", "miri" ]
+targets = [ "wasm32-unknown-unknown" ]
+profile = "complete"

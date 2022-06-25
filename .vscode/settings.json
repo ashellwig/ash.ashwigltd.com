@@ -1,0 +1,17 @@
+{
+    /* Programming Languages */
+    // Rust
+    "[rust]": {
+        "editor.formatOnSave": true
+    },
+    /* Global */
+    // Terminal
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/ahellwig/SDKs/emsdk:/home/ahellwig/SDKs/emsdk/upstream/emscripten:/home/ahellwig/SDKs/emsdk/node/14.18.2_64bit/bin:/home/ahellwig/.cargo/bin:/home/ahellwig/.nvm/versions/node/v16.14.2/bin:/home/ahellwig/anaconda3/bin:/home/ahellwig/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/opt/cxoffice/bin:/home/ahellwig/.dotnet/tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/bin:/sbin:/usr/sbin:/home/ahellwig/.local/bin:/home/ahellwig/.local/bin/scripts:/home/ahellwig/.local/bin/scripts/sh:/home/ahellwig/go/bin:/home/ahellwig/.local/share/TEE-CLC/14.114.0:/home/ahellwig/opt/cuda/bin:/home/ahellwig/.yarn/bin:/home/ahellwig/Android/Sdk/platform-tools:/home/ahellwig/Android/Sdk/cmdline-tools/latest/bin:/home/ahellwig/SDKs/flutter/bin",
+        "EMSDK": "/home/ahellwig/SDKs/emsdk",
+        "EM_CONFIG": "/home/ahellwig/SDKs/emsdk/.emscripten",
+        "EMSDK_NODE": "/home/ahellwig/SDKs/emsdk/node/14.18.2_64bit/bin/node"
+    },
+    // Spell Checker
+    "cSpell.enabled": false
+}
